@@ -1,7 +1,7 @@
 # 👋 Welcome to my SOC Write-ups
 
-Chào mừng bạn đến blog của mình!  
-Mình chia sẻ lại các write-up về SOC, Blue Team, và các lab từ CyberDefend / BlueTeamLabs.
+Welcome to my blog!
+I document and share my write-ups on SOC, Blue Team investigations, and hands-on labs from CyberDefend and BlueTeamLabs.
 
 ---
 ## 🔍 Latest Posts
