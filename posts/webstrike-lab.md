@@ -1,1 +1,1 @@
-![Hình](../assets/0.png)
+![Hình](../assets/webstrike-lab/0.png)
