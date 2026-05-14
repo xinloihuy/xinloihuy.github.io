@@ -28,6 +28,7 @@ These are hands-on experiments to understand system behavior, attacker activity,
 - [Web Application Security Monitoring Lab with Wazuh SIEM & ModSecurity](https://docs.google.com/document/d/1I0B4W_qsKKj7TAlNg_HJjbJ2Z2oh8GCv/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
 - [Integrating Wazuh SIEM with VirusTotal and Automated Active Response for Malware Removal](https://docs.google.com/document/d/1iD3WBCigdWhggQLbWDsIdrzX1hlsVtRw/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
 - [Web Application Security Monitoring Lab with Wazuh SIEM & Coraza WAF on Nginx](https://docs.google.com/document/d/1mFGRg8B_d1BZBj3rlmiIst54uwVpPYXQ/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
+- [Deployment of Zabbix via FortiManager for FortiGate Monitoring](https://docs.google.com/document/d/1bDiQ9CF-oocoyhvlIKZ1H-KBfPRNj0UH/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
 ---
 
 <!-- ## 💼 Mini Projects
