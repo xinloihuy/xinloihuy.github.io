@@ -1,47 +1,66 @@
-# 👋 Welcome to My SOC & Blue Team Journey
+# 🛡️ Welcome to My SOC & Blue Team Journey
 
-Welcome to my blog!  
-This site is where I document and share my learning progress in **Blue Teaming** and **Security Operations (SOC)**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Seeking%20Internship-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Major-Information%20Security-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/University-HCMUTE-red?style=for-the-badge" />
+</p>
 
----
-## 📘 My CV
-- [Click here to see my CV](https://drive.google.com/file/d/1eksnNqaoZH-OOe9hfWE8VTNcPx6qOS5-/view?usp=drive_link)
-
-## 📘 Write-ups
-Write-ups for CTF challenges, SOC investigations, and labs from training platforms.  
-These focus on log analysis, alert triage, and incident response methodology.
-
-- [WebStrike Lab (CyberDefenders.org)](./posts/webstrike-lab.md)
-<!-- - [Phishing Email Analysis (BlueTeamLabs Online)](./posts/phishing-lab.md) -->
-<!-- - [SIEM Detection Challenge (CyberDefenders.org)](./posts/siem-detection.md) -->
+Welcome to my research space! I'm **Huy Nguyen** (Nguyen Van Huy) — a 3rd-year Information Security student at Ho Chi Minh City University of Technology and Education (HCMUTE). This is where I document my learning roadmap, malware analysis, and defensive security (Blue Teaming) systems that I have built.
 
 ---
 
-## 🧪 Personal Labs
-My self-built mini-labs to simulate real-world Blue Team scenarios.  
-These are hands-on experiments to understand system behavior, attacker activity, and defense mechanisms.
-
-**Topics Include:**
-- [Windows RDP Brute-Force Attack Detection Lab using Wazuh SIEM & Sysmon](https://docs.google.com/document/d/1mhxbbMTX1Pne453LPQEGYqZ1PwRmRfeu/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
-- [Real-Time Ransomware Detection using Wazuh, FIM & Sysmon on Windows](https://docs.google.com/document/d/12jkUjXrNjljtdyZITz3iwIcU3tL7_LtH/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
-- [Ubuntu SSH Brute-Force Attack Detection Lab with Wazuh, Auditd & Journald](https://docs.google.com/document/d/1F-L8_m3bP3QtJ9pQ9fKMC3bXKOvvUmHf/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
-- [Web Application Security Monitoring Lab with Wazuh SIEM & ModSecurity](https://docs.google.com/document/d/1I0B4W_qsKKj7TAlNg_HJjbJ2Z2oh8GCv/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
-- [Integrating Wazuh SIEM with VirusTotal and Automated Active Response for Malware Removal](https://docs.google.com/document/d/1iD3WBCigdWhggQLbWDsIdrzX1hlsVtRw/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
-- [Web Application Security Monitoring Lab with Wazuh SIEM & Coraza WAF on Nginx](https://docs.google.com/document/d/1mFGRg8B_d1BZBj3rlmiIst54uwVpPYXQ/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
-- [Deployment of Zabbix via FortiManager for FortiGate Monitoring](https://docs.google.com/document/d/1bDiQ9CF-oocoyhvlIKZ1H-KBfPRNj0UH/edit?usp=drive_link&ouid=103109024342379097145&rtpof=true&sd=true)
+## 👨‍💻 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/xinloihuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xinloihuy" height="30" width="40" /></a>
+<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
+</p>
 
 ---
 
-<!-- ## 💼 Mini Projects
-Mini projects and proof-of-concepts (PoCs) demonstrating applied SOC and Blue Team skills.  
-These are designed to show practical ability for **internships** or **SOC analyst roles**.
+## 🛠️ Technical Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/SIEM-Wazuh-blue?style=flat-square&logo=wazuh" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Network-GNS3%20%7C%20Cisco%20%7C%20Fortinet-orange?style=flat-square" alt="Network" />
+  <img src="https://img.shields.io/badge/Security-Sysmon%20%7C%20EDR%20%7C%20SOC-red?style=flat-square" alt="Security" />
+  <img src="https://img.shields.io/badge/Automation-Python%20%7C%20AI%20Agent-yellow?style=flat-square&logo=python" alt="Python" />
+</p>
 
-**Example Projects:**
-- SOC Alert Dashboard using Elastic Stack  
-- Phishing Detection and Reporting System  
-- Automation script for IOC lookup and enrichment  
+---
 
-> 🔹 *Goal: Showcase end-to-end understanding — from log collection to threat detection.*
+## 📄 Professional Profile
+You can view my detailed experience and skills here:
+<p align="left">
+  <a href="https://drive.google.com/file/d/1eksnNqaoZH-OOe9hfWE8VTNcPx6qOS5-/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20CV-DOWNLOAD-blueviolet?style=for-the-badge&logo=googledrive" />
+  </a>
+</p>
 
---- -->
-*Thanks for visiting! Feel free to follow my progress as I continue learning and contributing to the defensive security community.*
+---
+
+## 🧪 Hands-on Personal Labs
+*Realistic simulated environments for studying attack behaviors and defense mechanisms.*
+
+| Lab Name | Primary Tools | Link |
+| :--- | :---: | :---: |
+| **RDP Brute-Force Detection** | Wazuh, Sysmon | [📂 View Lab](https://docs.google.com/document/d/1mhxbbMTX1Pne453LPQEGYqZ1PwRmRfeu/edit?usp=drive_link) |
+| **Real-Time Ransomware Detection** | Wazuh, FIM, Sysmon | [📂 View Lab](https://docs.google.com/document/d/12jkUjXrNjljtdyZITz3iwIcU3tL7_LtH/edit?usp=drive_link) |
+| **Ubuntu SSH Brute-Force** | Auditd, Journald | [📂 View Lab](https://docs.google.com/document/d/1F-L8_m3bP3QtJ9pQ9fKMC3bXKOvvUmHf/edit?usp=drive_link) |
+| **Web App Security Monitoring** | ModSecurity, Wazuh | [📂 View Lab](https://docs.google.com/document/d/1I0B4W_qsKKj7TAlNg_HJjbJ2Z2oh8GCv/edit?usp=drive_link) |
+| **VirusTotal & Active Response** | Malware Removal | [📂 View Lab](https://docs.google.com/document/d/1iD3WBCigdWhggQLbWDsIdrzX1hlsVtRw/edit?usp=drive_link) |
+| **Coraza WAF on Nginx** | Web Security | [📂 View Lab](https://docs.google.com/document/d/1mFGRg8B_d1BZBj3rlmiIst54uwVpPYXQ/edit?usp=drive_link) |
+| **Zabbix & FortiGate Monitoring** | FortiManager | [📂 View Lab](https://docs.google.com/document/d/1bDiQ9CF-oocoyhvlIKZ1H-KBfPRNj0UH/edit?usp=drive_link) |
+
+---
+
+## 📘 Security Write-ups
+*Technical analysis of CTF challenges and SOC incident investigations.*
+
+*   **[WebStrike Lab (CyberDefenders.org)](./posts/webstrike-lab.md)**: Web Server log investigation and intrusion detection.
+*   *...more coming soon...*
+
+---
+
+<p align="center">
+  <i>"Thanks for visiting! Feel free to follow my progress as I continue learning and contributing to the defensive security community."</i>
+</p>
