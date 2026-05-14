@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/University-HCMUTE-red?style=for-the-badge" />
 </p>
 
-Welcome to my research space! I'm **Huy Nguyen** (Nguyen Van Huy) — a 3rd-year Information Security student at Ho Chi Minh City University of Technology and Education (HCMUTE). This is where I document my learning roadmap, malware analysis, and defensive security (Blue Teaming) systems that I have built.
+Welcome to my research space! I'm **Xin Loi Huy** (Xín Lợi Huy) — a 3rd-year Information Security student at Ho Chi Minh City University of Technology and Engineering (HCMUTE). This is where I document my learning roadmap, malware analysis, and defensive security (Blue Teaming) systems that I have built.
 
 ---
 
