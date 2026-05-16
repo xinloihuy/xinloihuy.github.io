@@ -45,7 +45,7 @@ You can view my detailed experience and skills here:
 | :--- | :---: | :---: |
 | **Windows RDP Brute-Force Attack Detection Lab using Wazuh SIEM & Sysmon** | Wazuh, Sysmon | [📂 View Lab](https://docs.google.com/document/d/1mhxbbMTX1Pne453LPQEGYqZ1PwRmRfeu/edit?usp=drive_link) |
 | **Real-time Ransomware Detection using Wazuh, FIM & Sysmon on Windows** | Wazuh, FIM, Sysmon | [📂 View Lab](https://docs.google.com/document/d/12jkUjXrNjljtdyZITz3iwIcU3tL7_LtH/edit?usp=drive_link) |
-| **Ubuntu SSH Brute-Force Attack Detection with Wazuh, Auditd & Journald** | Auditd, Journald | [📂 View Lab](https://docs.google.com/document/d/1F-L8_m3bP3QtJ9pQ9fKMC3bXKOvvUmHf/edit?usp=drive_link) |
+| **Ubuntu SSH Brute-Force Attack Detection with Wazuh, Auditd & Journald** | Wazuh, Auditd, Journald | [📂 View Lab](https://docs.google.com/document/d/1F-L8_m3bP3QtJ9pQ9fKMC3bXKOvvUmHf/edit?usp=drive_link) |
 | **Web Application Security Monitoring Lab with Wazuh SIEM & ModSecurity on Apache2** | ModSecurity, Wazuh | [📂 View Lab](https://docs.google.com/document/d/1I0B4W_qsKKj7TAlNg_HJjbJ2Z2oh8GCv/edit?usp=drive_link) |
 | **Integrating Wazuh SIEM with VirusTotal & Automated Active Response For Malware Removal** | Virustotal API, Wazuh | [📂 View Lab](https://docs.google.com/document/d/1iD3WBCigdWhggQLbWDsIdrzX1hlsVtRw/edit?usp=drive_link) |
 | **Web Application Security Monitoring Lab with Wazuh SIEM & Coraza WAF on Nginx** | Coraza, Wazuh | [📂 View Lab](https://docs.google.com/document/d/1mFGRg8B_d1BZBj3rlmiIst54uwVpPYXQ/edit?usp=drive_link) |
