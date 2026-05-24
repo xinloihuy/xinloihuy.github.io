@@ -50,6 +50,7 @@ You can view my detailed experience and skills here:
 | **Integrating Wazuh SIEM with VirusTotal & Automated Active Response For Malware Removal** | Virustotal API, Wazuh | [📂 View Lab](https://docs.google.com/document/d/1iD3WBCigdWhggQLbWDsIdrzX1hlsVtRw/edit?usp=drive_link) |
 | **Web Application Security Monitoring Lab with Wazuh SIEM & Coraza WAF on Nginx** | Coraza, Wazuh | [📂 View Lab](https://docs.google.com/document/d/1mFGRg8B_d1BZBj3rlmiIst54uwVpPYXQ/edit?usp=drive_link) |
 | **Deployment of Zabbix via FortiManager for FortiGate Monitoring** | FortiManager, FortiGate, Zabbix | [📂 View Lab](https://docs.google.com/document/d/1bDiQ9CF-oocoyhvlIKZ1H-KBfPRNj0UH/edit?usp=drive_link) |
+| **Hybrid Monitoring System: PRTG, Nagios, Zabbix, Cacti for Network & Web Services** | PRTG, Nagios, Zabbix, Cacti | [📂 View Lab](https://docs.google.com/document/d/1lEyk0PqJDnyI-ndrzlyhcYLOCdzutciB/edit?usp=drive_link) |
 
 ---
 
